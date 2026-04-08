@@ -136,7 +136,7 @@ const LEGAL_CONTENT = {
   'Terms of Service': {
     title: 'Terms of Service',
     content: `
-      By accessing the website at https://yayamounde.com, you are agreeing to be bound by these terms of service, all applicable laws and regulations, and agree that you are responsible for compliance with any applicable local laws.
+      By accessing the website at https://mound.vercel.app, you are agreeing to be bound by these terms of service, all applicable laws and regulations, and agree that you are responsible for compliance with any applicable local laws.
       
       If you do not agree with any of these terms, you are prohibited from using or accessing this site. The materials contained in this website are protected by applicable copyright and trademark law.
       
@@ -459,7 +459,7 @@ export default function App() {
                   <div className="absolute inset-0 bg-gradient-to-br from-white to-slate-400 liquid-blob rotate-6 opacity-20 blur-2xl group-hover:opacity-40 transition-opacity" />
                   <div className="absolute inset-0 bg-dark liquid-blob border border-white/10 overflow-hidden glass-edge-glow">
                     <img 
-                      src="https://images.unsplash.com/photo-1492691527719-9d1e07e534b4?auto=format&fit=crop&q=80&w=1200" 
+                      src="https://raw.githubusercontent.com/ahmath-musharraf/mound-portfolio/refs/heads/main/48387.jpeg" 
                       alt="Cinematic Production"
                       referrerPolicy="no-referrer"
                       className="w-full h-full object-cover grayscale hover:grayscale-0 transition-all duration-700 scale-110 group-hover:scale-100"
