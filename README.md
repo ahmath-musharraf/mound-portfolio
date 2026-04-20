@@ -1,20 +1,30 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+💼 Mound Portfolio
+YAYA Mounde Personal Portfolio Website
 
-# Run and deploy your AI Studio app
+Mound Portfolio is a modern and visually engaging personal portfolio website created for YAYA Mounde, designed and developed by Mushi Editz. This project showcases personal branding, creative works, and professional experience in a sleek and responsive format.
 
-This contains everything you need to run your app locally.
+🚀 Live Preview
+https://mound.vercel.app/
 
-View your app in AI Studio: https://ai.studio/apps/af3913f5-cc69-4742-8eba-3ddfe18590f6
+📌 About the Project
 
-## Run Locally
+This portfolio is built to highlight:
+Personal profile and introduction
+Skills and expertise
+Projects and creative work
+Contact information
+The goal of this project is to present YAYA Mounde’s identity in a strong, minimal, and professional digital presence.
 
-**Prerequisites:**  Node.js
+🎨 Features
+⚡ Modern UI/UX design
+📱 Fully responsive (mobile-friendly)
+🎯 Clean and minimal layout
+🖼️ Project showcase section
+📬 Contact section
+🌐 Smooth navigation
 
+📄 License
+This project is created for personal portfolio use. Feel free to use inspiration, but do not copy directly without permission.
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+⭐ Acknowledgements
+Special thanks to YAYA Mounde for the opportunity to create this portfolio.
